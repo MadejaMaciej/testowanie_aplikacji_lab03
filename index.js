@@ -1,0 +1,10 @@
+const math = require('./math')
+
+console.log(math.sum(2, 3))
+console.log(math.remove(2, 3))
+console.log(math.removeSmaller(2, 12))
+console.log(math.divide(1, 14))
+console.log(math.multiply(2, 3))
+console.log(math.isEven(55))
+console.log(math.bubbleSort([2, 3, 1, 5, 10, 15]))
+console.log(math.sumOfArrayElements(2, 3, 4, 5))

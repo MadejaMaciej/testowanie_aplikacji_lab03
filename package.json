@@ -1,0 +1,29 @@
+{
+  "name": "testowanie_aplikacji_lab03",
+  "version": "1.0.0",
+  "description": "Projekt testowania malej aplikacji na uczelniane zajecia",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest",
+    "coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MadejaMaciej/testowanie_aplikacji_lab03.git"
+  },
+  "keywords": [
+    "testowanie",
+    "uczelnia",
+    "zajecia"
+  ],
+  "author": "Maciej Madejczyk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MadejaMaciej/testowanie_aplikacji_lab03/issues"
+  },
+  "homepage": "https://github.com/MadejaMaciej/testowanie_aplikacji_lab03#readme",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}
